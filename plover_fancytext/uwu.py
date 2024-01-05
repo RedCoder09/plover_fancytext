@@ -9,7 +9,8 @@ UWU_SUBSTITUTIONS = {
 
 INTENSE_UWU_SUBSTITUTIONS = {
     "u": "uwu",
-    ".": " :3"
+    ".": " :3",
+    "o": "owo"
 }
 
 
